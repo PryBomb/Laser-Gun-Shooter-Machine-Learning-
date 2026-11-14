@@ -1,0 +1,20 @@
+﻿# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# VS Code and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Arduino build output
+build/
+*.elf
+*.bin
+
+# Secrets (keep your Wi-Fi passwords out of GitHub)
+secrets.h
+.env
